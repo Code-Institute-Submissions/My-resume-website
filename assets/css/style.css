@@ -1,7 +1,7 @@
 /* -----------------------------Common*/
 
 body {
-    background-image: url(pinkdust.png); 
+    background-image: url(../images/pinkdust.png); 
     /* https://www.toptal.com/designers/subtlepatterns/thumbnail-view/page/9/ */
     position: relative;
 }
