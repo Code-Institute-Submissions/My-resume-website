@@ -221,24 +221,25 @@ background-color: #86B3d1;
 
 .form-control::-webkit-input-placeholder {
   color:#EDB5BF; 
-;
 }
 
-.btn{
+.design-btn {
     font-size: 20px;
     color: #FFF8DC;
     background: #99CED3;
-     border-color: #EDB5BF;
-     margin-top: 7px;
+    border-color: #EDB5BF;
+    margin-top: 7px;
+    margin-bottom: 30px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out; 
 }
 
-.btn:hover {
+.design-btn:hover {
     background: #3e3c3d;
 }
+
 /* --------------------------------Footer */
 
 .list-inline-item i {
