@@ -63,8 +63,8 @@ section {
 
 /* ---------------------------My info */
 
-.container-fluid{
-    margin-top: 70px;
+.my-info-photo {
+    margin-top: 105px;
     padding: 0px;
     display: flex;
     justify-content: center;
