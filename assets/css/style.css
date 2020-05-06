@@ -1,21 +1,36 @@
-body{
+/* -----------------------------Common*/
+
+body {
     background-image: url(pinkdust.png); 
     /* https://www.toptal.com/designers/subtlepatterns/thumbnail-view/page/9/ */
     position: relative;
 }
 
-.navbar-expand-md{
+section {
+    color:#FFF8DC; 
+}
+
+/* -----------------------------Header*/
+
+.menu {
     background-color:#4D6D9A;
     -webkit-box-shadow: 0px 1px 1px 1px rgba(237,181,191,0.8);
     -moz-box-shadow: 0px 1px 1px 1px rgba(237,181,191,0.8);
     box-shadow: 0px 1px 1px 1px rgba(237,181,191,0.8);
 }
 
-section{
-    color:#FFF8DC; 
+.menu .move-right {
+    padding-left: 28px;
+    color: #FFF8DC;
 }
 
-/* -----------------------------Header 5f6366 grey 4D6D9A син 86B3d1 gol 99CED3 bir EDB5BF pink */
+.menu .move-right:hover {
+    color: #FFF8DC;
+}
+
+.move-left {
+    padding-right: 20px;
+}
 
 .nav-item a{
     font-size: 20px;
@@ -37,10 +52,6 @@ section{
 }
 .navbar-light .navbar-nav .nav-link.active{
     color: #FFF8DC;
-}
-a:not([href]):not([tabindex]){
-    color: #FFF8DC;
-    padding: 5px;
 }
 
  .nav-link.active{

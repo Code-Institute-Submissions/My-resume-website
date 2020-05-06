@@ -15,12 +15,23 @@ It has short information about me with my photo, contacts and 3 features:About M
  -- The feature "About Me" presents me shortly
  -- The feature "Experience" describes my work experience, educational history and my skills.
  -- In the feature "Contact" is form to contact me by email.
-
  - footer with social links
 
 Technologies Used:
+I have used such libraries as 
+-bootstrap: its components: navbar, progress bar, collaps, scrollspy, form, buttons, media; 
+grid system for columns;
+-awesome for icons
+-hover.css
+- JQuery for bootsrtap
+- other sources:
+www.toptal.com for site's background
+visme.co - for insiparion of website-color-schemes
+www.cssmatic.com - for shadow
+stackoverflow - for finding answers for questions
+     Also I've used my own text and photo
 
-Deployment
+Deployment is done. I've made link to web page
 
 Content
 
