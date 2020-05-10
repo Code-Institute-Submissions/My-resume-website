@@ -133,7 +133,7 @@ section {
 
 /* --------------------------------My Experience */
 
-#heading {
+.head {
     background-color: rgba(134, 179, 209, 0.90);
     color: #FFF8DC;
     margin:25px 0; 
@@ -289,3 +289,4 @@ section {
       text-align: center;
   }
 }
+
