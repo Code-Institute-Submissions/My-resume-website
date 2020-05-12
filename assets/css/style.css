@@ -215,29 +215,29 @@ section {
     margin: auto;
 }
 
-.form-control{
+.contact-form-design{
     background: rgba(134, 179, 209, 0.295);
     border-color: #EDB5BF; 
     margin-bottom: 3px;
 }
 
-.color-placeholder::-webkit-input-placeholder {
+.contact-form-design::-webkit-input-placeholder {
     color:#EDB5BF; 
 }
 
-.color-placeholder::-moz-input-placeholder {
+.contact-form-design::-moz-input-placeholder {
     color:#EDB5BF; 
 }
 
-.color-placeholder::-o-input-placeholder {
+.contact-form-design::-o-input-placeholder {
     color:#EDB5BF; 
 }
 
-.color-placeholder::-ms-input-placeholder {
+.contact-form-design::-ms-input-placeholder {
     color:#EDB5BF; 
 }
 
-.design-btn {
+.contact-button {
     font-size: 20px;
     color: #FFF8DC;
     background: #99CED3;
@@ -251,7 +251,7 @@ section {
     -ms-transition: all 0.35s ease-in-out;
 }
 
-.design-btn:hover {
+.contact-button:hover {
     background: #3e3c3d;
 }
 
