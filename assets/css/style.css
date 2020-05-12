@@ -11,7 +11,7 @@ section {
     color:#FFF8DC; 
 }
 
-/* -----------------------------Header*/
+/* -----------------------------Header/Menu*/
 
 .menu {
     background-color:#4D6D9A;
@@ -96,8 +96,8 @@ section {
 
 /* --------------------------------  About Me*/
 
-.about-me-top {
-    margin-top: 20px;
+.about-me {
+    padding-top: 26px;
 }
 
 .icn {
