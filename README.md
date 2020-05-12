@@ -4,6 +4,9 @@ It is a User Centric Frontend Development Milestone Project, where a personal re
 It is a full stack developer resume website for the users such as employers, recruiters considering to hire the IT employee. 
 It can be also used by potential partners for future projects.
 
+##Demo 
+
+
 ## UX
 All users who are looking for full stack developer, can find information about experience, education, professional skills and interests of the person. They can see photo, personal and social contacts.
 ### User Stories:
@@ -35,7 +38,7 @@ The project uses libraries:
 - Bootstrap's components (container, navbar, progress bar, collapse, scrollspy, contact form, buttons, media) and grid system for creating navigation menu, scrolling page, columns, location of content for mobile and desktop versions both - https://getbootstrap.com/;
 - Awesome for using icons - https://fontawesome.com/;
 - Hover.css for hovering effects- https://cdnjs.com/;
-- JQuery for bootsrtap - https://code.jquery.com/;
+- JQuery for bootstrap - https://code.jquery.com/;
 
 ## Testing
 It has been conducted enough testing the website. It was tested from desktop and mobile devices such as Honor 8, iPhone 6, iPhone 11 Pro.
