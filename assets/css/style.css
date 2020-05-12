@@ -21,16 +21,16 @@ section {
     box-shadow: 0px 1px 1px 1px rgba(237,181,191,0.8);
 }
 
-.menu .move-right {
+.menu .menu-left {
     padding-left: 28px;
     color: #FFF8DC;
 }
 
-.menu .move-right:hover {
+.menu .menu-left:hover {
     color: #FFF8DC;
 }
 
-.move-left {
+.menu-right {
     padding-right: 20px;
     text-align: right;
 }
