@@ -31,13 +31,13 @@ It consists of:
 - Footer with social links. 
 
 ## Skeleton
-One of the part of the design process was creating a mockup of the website in program "Balsamiq": 
+One of the part of the design process was creating a mockup of the website in online tool "Balsamiq": 
 [link](https://balsamiq.cloud/s9gst4n/pdmxmfc)
 
 ## Surface
 All the colors of the website are chosen in one calm tone, so that they are combined good for a pleasant viewing. 
-At the same time a bright visual effect was obtained and the information architecture are provided, using a light font on a dark background.
-The design is modest and minimalistic so light content on a dark background looks appropriate, and shadow highlighting is stylish.
+At the same time a bright visual effect was obtained and the information architecture is provided, using a light font on a dark background.
+The design is modest and minimalistic so light content color on a dark background looks appropriate, and shadow highlighting is stylish.
 All the buttons and links are highlighted so that it is easy for the users to use them.
 
 # Features
@@ -48,7 +48,7 @@ The website has navigation menu that is fixed on top during scrolling. The menu 
   + Feature 2 - allows user to read short information about Darya and her interests by scrolling to the part "About Me" or choosing the item "About Me" in menu.
   + Feature 3 - allows user to read information about Darya's work experience, educational history and her skills, by choosing the items "Experience", "Skills" respectively in menu or scrolling down the page.
   + Feature 4 - allows user to see contact form by choosing item "Contact" in menu or scrolling down the page (it will be implemented in future to allow user to contact Darya by filling in contact form).
-Moreover contact form doesn't work yet. 
+  Contact form doesn't work yet. 
 
 Footer with social links allows user to find social networks such as Facebook, LinkedIn, Skype, Instagram.
 Social links open just main pages of websites. They are planned to be implemented in the future and user can find Darya in these social links.
@@ -69,11 +69,11 @@ It has been conducted enough testing the website. It was tested from desktop acr
 It's also tested on mobile devices such as Honor 8, iPhone 6, iPhone 11 Pro.
 
 Testing was mainly focused on:
-- How HTML and CSS files is written;
+- How HTML and CSS files are written;
 - How navigation menu works;
 - How content and colors look like in every section in different screen sizes;
-- How scrolling page works;
-- How CV opens and is getting downloaded;
+- How webpage behaves when scrolling;
+- How CV is getting opened and downloaded;
 - How social links work.
 
 The following tests have been used for checking the HTML and CSS files:
@@ -81,16 +81,15 @@ The following tests have been used for checking the HTML and CSS files:
 - W3C CSS Validator.
 
 Testing showed that the website works well for both desktops and mobile devices.
-When the website is opened on mobile devices, menu is changed to a toggle-button and the photo disappears in the area "About Me".
 
 # Bugs
-In addition a strange bug was discovered during testing the website in desktop and mobile versions. 
-There is a little space (several pixels) between the footer and the right side of screen. The same bug is found with personal contacts area (class "my-info").
+Strange bug was discovered during testing on desktop and mobile versions. 
+There is a little space (several pixels) between the footer and the right side of screen. The same bug is found with personal contacts area (CSS class "my-info").
 For "my-info" and footer container-fluid (bootstrap library) is used for a full width container, that should cover the entire width of the screen.
 This bug can not be reproduced every time. Thats why it's hard to identify the problem.
  
 # Deployment
-The website was deployed to a hosting platform GitHub Pages. GitHub Pages website is currently being built from the master branch.
+The website was deployed to a hosting platform GitHub Pages. It is currently being built from the master branch.
 The link is https://dynjashik.github.io/My-resume-website/.
 
 # Credits
