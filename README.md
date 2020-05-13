@@ -27,19 +27,12 @@ For recruiters and other users who are interested to find personal and professio
 The website srtucture is a single scrolling page, consisting of 4 separate page areas.
 It consists of:
 - Header 
-
-  It has navigation menu that is fixed on top during scrolling. The menu consists of 5 items. 4 of them navigate to 4 different areas and 1 menu item opens my CV. 
-- Main section that consists of 4 sections:
-  + Section 1 - allows user to see the photo and personal contacts on top of the page.
-  + Section 2 - allows user to read short information about Darya and her interests by scrolling to the part "About Me" or choosing the item "About Me" in menu.
-  + Section 3 - allows user to read information about Darya's work experience, educational history and her skills, by choosing the items "Experience", "Skills" respectively in menu or scrolling down the page.
-  + Section 4 - allows user to see contact form by choosing item "Contact" in menu or scrolling down the page (it will be implemented in future to allow user to contact Darya by filling in contact form).
-- Footer with social links. It allows user to find social networks such as Facebook, LinkedIn, Skype, Instagram (in the future user can find Darya in these social links).
-
+- Main section that consists of 4 sections: About Me, Experience, Education and My Skills, Contact.
+- Footer with social links. 
 
 ## Skeleton
 One of the part of the design process was creating a mockup of the website in program "Balsamiq": 
-https://balsamiq.cloud/s9gst4n/pdmxmfc
+[link](https://balsamiq.cloud/s9gst4n/pdmxmfc)
 
 ## Surface
 All the colors of the website are chosen in one calm tone, so that they are combined good for a pleasant viewing. 
@@ -47,19 +40,29 @@ At the same time a bright visual effect was obtained and the information archite
 The design is modest and minimalistic so light content on a dark background looks appropriate, and shadow highlighting is stylish.
 All the buttons and links are highlighted so that it is easy for the users to use them.
 
+# Features
+The website has navigation menu that is fixed on top during scrolling. The menu consists of 5 items. 4 of them navigate to 4 different areas and 1 menu item opens my CV. 
+
+## Existing Features
+  + Feature 1 - allows user to see the photo and personal contacts on top of the page.
+  + Feature 2 - allows user to read short information about Darya and her interests by scrolling to the part "About Me" or choosing the item "About Me" in menu.
+  + Feature 3 - allows user to read information about Darya's work experience, educational history and her skills, by choosing the items "Experience", "Skills" respectively in menu or scrolling down the page.
+  + Feature 4 - allows user to see contact form by choosing item "Contact" in menu or scrolling down the page (it will be implemented in future to allow user to contact Darya by filling in contact form).
+Moreover contact form doesn't work yet. 
+
+Footer with social links allows user to find social networks such as Facebook, LinkedIn, Skype, Instagram.
+Social links open just main pages of websites. They are planned to be implemented in the future and user can find Darya in these social links.
+
+When the website is opened on mobile devices, menu is changed to a toggle-button and the photo disappears in the area "About Me".
+
 # Technologies Used
 For constructing this project technologies were used such as HTML - for basics and CSS - for design.
 
 The project uses libraries:
-- Bootstrap's components (container, navbar, progress bar, collapse, scrollspy, contact form, buttons, media) and grid system for creating navigation menu, scrolling page, columns, location of content for mobile and desktop versions both - https://getbootstrap.com/;
-- Awesome for using icons - https://fontawesome.com/;
-- Hover.css for hovering effects- https://cdnjs.com/;
-- JQuery for bootstrap - https://code.jquery.com/.
-
-# Features
-When the website is opened on mobile devices, menu is changed to a toggle-button and the photo disappears in the area "About Me".
-Moreover contact form doesn't work yet. 
-Social links open just main pages of websites. They are planned to be implemented in the future. 
+- Bootstrap's components (container, navbar, progress bar, collapse, scrollspy, contact form, buttons, media) and grid system for creating navigation menu, scrolling page, columns, location of content for mobile and desktop versions both - [link](https://getbootstrap.com/);
+- Awesome for using icons - [link](https://fontawesome.com/);
+- Hover.css for hovering effects- [link](https://cdnjs.com/);
+- JQuery for bootstrap - [link](https://code.jquery.com/).
 
 # Testing
 It has been conducted enough testing the website. It was tested from desktop across different screen sizes on Chrome and Internet Explorer.
